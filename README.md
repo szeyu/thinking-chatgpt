@@ -43,7 +43,7 @@ When implemented, ChatGPT will:
 
 ## Credits
 
-This project is adapted from the [Thinking-Claude repository](https://github.com/richards199999/Thinking-Claude) by richards199999. The original protocol has been modified to work with ChatGPT while maintaining the core benefits of structured thinking processes.
+This project is adapted from the [Thinking-Claude repository](https://github.com/richards199999/Thinking-Claude) by [@richards199999](https://github.com/richards199999). The original protocol has been modified to work with ChatGPT while maintaining the core benefits of structured thinking processes.
 
 ## Contributing
 
