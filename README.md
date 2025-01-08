@@ -24,7 +24,11 @@ When implemented, ChatGPT will:
 ## Usage
 
 1. Start a new conversation with ChatGPT
-2. Provide the thinking protocol instructions at the beginning of your chat
+2. Provide the thinking protocol instructions at the beginning of your chat. You can copy from
+   - [openai_thinking_protocol_part1.md](model_instructions/openai_thinking_protocol_part1.md)
+   - [openai_thinking_protocol_part2.md](model_instructions/openai_thinking_protocol_part2.md)
+   - [openai_thinking_protocol_part3.md](model_instructions/openai_thinking_protocol_part3.md)
+   - [openai_thinking_protocol_part4.md](model_instructions/openai_thinking_protocol_part4.md)
 3. ChatGPT will then follow this protocol for all subsequent interactions
 
 ## Benefits
